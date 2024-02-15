@@ -8,7 +8,7 @@
 
 <br />
 
-Hi,I'm Maaz Khan, a student at the University of British Columbia. 
+Hi, I'm Maaz Khan, a student at the University of British Columbia. 
 
 **Languages and Tools:**
 
